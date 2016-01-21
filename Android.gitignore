@@ -34,3 +34,6 @@ captures/
 # Android Studio generated files
 .idea/
 *.iml
+
+# Mac File system
+.DS_Store
